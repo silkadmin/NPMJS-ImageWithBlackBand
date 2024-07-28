@@ -1,0 +1,17 @@
+{
+  "name": "imagewithblackband",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "lodash": "^4.17.21",
+    "nanoid": "^5.0.7",
+    "sharp": "^0.33.4"
+  }
+}
